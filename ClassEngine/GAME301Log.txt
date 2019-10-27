@@ -1,1 +1,1 @@
-[INFO]Everything Initialized Properly in d:\school_projects\semester_5\newengine\engine\classengine_complete\classengine\engine\core\classengine.cpp on line: 76
+[INFO]Everything Initialized Properly in e:\personal_projects\c++\classengine_complete\classengine\engine\core\classengine.cpp on line: 76

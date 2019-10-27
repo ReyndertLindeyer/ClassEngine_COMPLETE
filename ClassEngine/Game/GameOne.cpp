@@ -12,7 +12,7 @@ GameOne::~GameOne()
 }
 
 bool GameOne::Initialize() {
-	Camera::GetInstance()->SetPosition(glm::vec3(0.0f, 0.0f, 4.0f));
+	Camera::GetInstance()->SetPosition(glm::vec3(0.0f, -2.0f, 4.0f));
 	Camera::GetInstance()->AddLightSource(new LightSource(glm::vec3(0.0f, 0.0f, 2.0f), 0.1f, 0.5f, glm::vec3(1.0f, 1.0f, 1.0f)));
 	CollisionHandler::GetInstance()->Initialize(100.0f);
 	
