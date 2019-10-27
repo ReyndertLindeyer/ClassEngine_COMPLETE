@@ -9,6 +9,9 @@
 *.o
 *.obj
 
+!Dice.obj
+!Apple.obj
+
 # Precompiled Headers
 *.gch
 *.pch
